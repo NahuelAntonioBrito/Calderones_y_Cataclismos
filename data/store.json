@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Poción",
+        "price": 2,
+        "ability":"Cura +3 hp"
+    },
+    {
+        "name": "Reconpensa",
+        "price": 5,
+        "ability":""
+    },
+    {
+        "name": "Botas",
+        "price": 7,
+        "ability":"Te permite desplazarte 5 habitaciones"
+    },
+    {
+        "name": "Espada Larga",
+        "price": 10,
+        "ability":"+1 de atk"
+    },
+    {
+        "name": "Pergamino De La Venganza",
+        "price": 10,
+        "ability":""
+    },
+    {
+        "name": "Pergamino De Necromancia",
+        "price": 10,
+        "ability":""
+    }
+]
